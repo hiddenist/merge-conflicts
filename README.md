@@ -1,6 +1,6 @@
 # merge-conflicts
 
-This is an example readme that I'll use to demonstrate weird merge conflicts.
+This is an example readme that I'll use to demonstrate weird merge conflicts. 👍🏻
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam elementum justo eget purus sagittis venenatis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tristique et justo eleifend ultrices. Nullam et consectetur quam, at accumsan libero. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur fermentum volutpat tellus vel vehicula. Duis elementum velit et mollis convallis. Curabitur eget condimentum dui, sit amet volutpat turpis. Suspendisse convallis erat eu justo pellentesque aliquet. Curabitur imperdiet mollis felis eu sollicitudin. Cras id erat enim.
 
